@@ -24,12 +24,15 @@
             android:exported="false" />
         <activity
             android:name=".authentication.ResetActivity"
+            android:theme="@style/login"
             android:exported="false" />
         <activity
             android:name=".authentication.RegisterActivity"
+            android:theme="@style/login"
             android:exported="false" />
         <activity
             android:name=".authentication.LoginActivity"
+            android:theme="@style/login"
             android:exported="false" />
         <activity
             android:name=".MainActivity"

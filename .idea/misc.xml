@@ -3,12 +3,22 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Android/EUCOSSA/app/src/main/res/drawable-mcc254/country_selector.xml" value="0.1945" />
+        <entry key="..\:/Android/EUCOSSA/app/src/main/res/drawable/border.xml" value="0.1825" />
+        <entry key="..\:/Android/EUCOSSA/app/src/main/res/drawable/flag.xml" value="0.1945" />
+        <entry key="..\:/Android/EUCOSSA/app/src/main/res/drawable/temp_background.xml" value="0.1945" />
+        <entry key="..\:/Android/EUCOSSA/app/src/main/res/drawable/tmep_call.xml" value="0.1945" />
         <entry key="..\:/Android/EUCOSSA/app/src/main/res/layout/activity_change_password.xml" value="0.17760416666666667" />
         <entry key="..\:/Android/EUCOSSA/app/src/main/res/layout/activity_launcher.xml" value="0.19166666666666668" />
-        <entry key="..\:/Android/EUCOSSA/app/src/main/res/layout/activity_login.xml" value="0.19166666666666668" />
-        <entry key="..\:/Android/EUCOSSA/app/src/main/res/layout/activity_register.xml" value="0.19166666666666668" />
-        <entry key="..\:/Android/EUCOSSA/app/src/main/res/layout/activity_reset.xml" value="0.19166666666666668" />
+        <entry key="..\:/Android/EUCOSSA/app/src/main/res/layout/activity_login.xml" value="0.22" />
+        <entry key="..\:/Android/EUCOSSA/app/src/main/res/layout/activity_main.xml" value="0.19166666666666668" />
+        <entry key="..\:/Android/EUCOSSA/app/src/main/res/layout/activity_register.xml" value="0.22" />
+        <entry key="..\:/Android/EUCOSSA/app/src/main/res/layout/activity_reset.xml" value="0.25" />
+        <entry key="..\:/Android/EUCOSSA/app/src/main/res/layout/app_bar_main.xml" value="0.19166666666666668" />
         <entry key="..\:/Android/EUCOSSA/app/src/main/res/layout/content_main.xml" value="0.22" />
+        <entry key="..\:/Android/EUCOSSA/app/src/main/res/layout/selector.xml" value="0.15" />
+        <entry key="..\:/Android/EUCOSSA/app/src/main/res/menu/activity_main_drawer.xml" value="0.19166666666666668" />
+        <entry key="..\:/Android/EUCOSSA/app/src/main/res/menu/main.xml" value="0.19166666666666668" />
       </map>
     </option>
   </component>

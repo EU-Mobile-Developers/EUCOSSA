@@ -14,7 +14,7 @@ class LauncherActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         val mAuth = Firebase.auth
-        Timer("launch",false).schedule(500){
+        Timer("launch",false).schedule(100){
             if (mAuth.currentUser?.uid == null){
                 //not logged in go to log in
                 startlogin()
