@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1067940811887",
+    "project_id": "eucossa-2d43a",
+    "storage_bucket": "eucossa-2d43a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1067940811887:android:c8cd0eb12c120486a4699a",
+        "android_client_info": {
+          "package_name": "com.kerberos.eucossa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1067940811887-8eogjjq01fdt85v9euh2eh9i5qjhbvul.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsJ1sfEWtEnWcYw3dR78nxN2bDss5Codw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1067940811887-8eogjjq01fdt85v9euh2eh9i5qjhbvul.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
