@@ -1,6 +1,10 @@
 # EUCOSSA
 
+![EUCOSSA Banner](https://eu-mobile-developers.github.io/EUCOSSA/assets/img/hero/hero-bg.png)
+
 Welcome to the **EUCOSSA** app! This is an Android application designed specifically for computer science students at Egerton University. Our goal is to create a vibrant community where students can communicate, share ideas, collaborate on projects, and have fun.
+
+![EUCOSSA Logo](https://eu-mobile-developers.github.io/EUCOSSA/assets/img/logo/logo.svg)
 
 ## Features
 
@@ -15,9 +19,9 @@ Welcome to the **EUCOSSA** app! This is an Android application designed specific
 - **Kotlin & Java:** The app is developed using Kotlin and Java, making the most of Android's robust development ecosystem.
 - **Firebase:** For real-time data synchronization and authentication.
 - **Material Design:** Ensuring a smooth, user-friendly interface that follows Android's design guidelines.
-- **MVVM:** A robust concept for view modelling to separate logic from the UI.
+- **MVVM:** A robust architecture pattern for separating logic from the UI.
 
-## Getting Started
+## Building
 
 - Android Studio installed on your machine.
 - A Firebase account for backend services.
