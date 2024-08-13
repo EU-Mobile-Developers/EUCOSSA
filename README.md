@@ -4,7 +4,7 @@
 
 Welcome to the **EUCOSSA** app! This is an Android application designed specifically for computer science students at Egerton University. Our goal is to create a vibrant community where students can communicate, share ideas, collaborate on projects, and have fun.
 
-![EUCOSSA Logo](https://eu-mobile-developers.github.io/EUCOSSA/assets/img/logo/logo.svg)
+<img src="https://eu-mobile-developers.github.io/EUCOSSA/assets/img/logo/logo.svg" alt="EUCOSSA Logo" width="200" />
 
 ## Features
 
