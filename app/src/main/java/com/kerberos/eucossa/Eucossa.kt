@@ -8,11 +8,11 @@ import android.app.Application
  * @Date: 26/12/2022
  * @Project: Eucossa
  */
-class AppInitialize : Application() {
+class Eucossa : Application() {
 
     companion object{
         @get: Synchronized
-        lateinit var initialize: AppInitialize
+        lateinit var initialize: Eucossa
         private set
     }
 
